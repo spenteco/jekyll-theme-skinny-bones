@@ -22,7 +22,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-
+  - kramdown-parser-gfm
 
 # Site owner
 owner:
